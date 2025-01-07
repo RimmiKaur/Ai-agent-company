@@ -108,7 +108,7 @@ export default function Page() {
             <img src="/images/chatbots.png" alt="Chat Bots" className="w-5 h-5" />
             <span>Chat Bots</span>
           </div>
-          <Link href="/">
+          <Link href="/outreachbots">
             <div className="flex items-center space-x-2 mb-6">
               <img
                 src="/images/outreachbots.svg"
