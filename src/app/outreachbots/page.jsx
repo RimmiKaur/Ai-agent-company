@@ -155,7 +155,7 @@ export default function OutreachBots() {
                         </p>
                     </div>
                 </form>
-                <div className="p-6 space-y-6">
+                <div className=" space-y-6">
                     {/* Auto Replies Toggle */}
                     <div>
                         {/* Title */}
@@ -228,7 +228,7 @@ export default function OutreachBots() {
                     </div>
                 </div>
 
-                <div className="p-6  space-y-4">
+                <div className="mt-6 space-y-4">
                     {/* Title */}
                     <h2 className="text-lg font-semibold">Bot Profile</h2>
 
@@ -267,7 +267,7 @@ export default function OutreachBots() {
 
                 </div>
 
-                <div className="p-6 bg-white shadow-md rounded-lg w-[800px] space-y-4">
+                <div className="p-6 mt-6 border rounded-lg  space-y-4">
                     {/* Title */}
                     <div className="flex justify-between items-center">
                         <h2 className="text-lg font-semibold">Marketing Results</h2>
